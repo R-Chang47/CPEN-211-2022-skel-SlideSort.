@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="slidesort.TestTask3" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-09-26T04:50:43" hostname="DESKTOP-RL3U96F" time="0.061">
+  <properties/>
+  <testcase name="testSortable()" classname="slidesort.TestTask3" time="0.033"/>
+  <testcase name="bottomRightClump()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="horizontalRect()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="missingValues()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="testUnsortedDiag()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="bigClumped()" classname="slidesort.TestTask3" time="0.003"/>
+  <testcase name="testDiag()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="testScatteredAligned()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="colAligned()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="topLeftClump()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="zeroes()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="verticalRect()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="empty()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="unity()" classname="slidesort.TestTask3" time="0.001"/>
+  <testcase name="generalCase()" classname="slidesort.TestTask3" time="0.003"/>
+  <testcase name="verticalRectMissing()" classname="slidesort.TestTask3" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
